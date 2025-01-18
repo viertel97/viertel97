@@ -30,10 +30,10 @@ Here's a list of things I currently keep myself busy with:
 <br>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/janik-viertel/">
+<a href="https://linkedin.com/in/janik-viertel/">
 <img src="https://img.shields.io/badge/-Janik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janik-viertel/"/>
 </a>
-<a href="https://www.viertel-it.de">
+<a href="https://viertel-it.de">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 <a href="https://github.com/viertel97">
